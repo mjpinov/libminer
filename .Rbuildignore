@@ -1,0 +1,4 @@
+^renv$
+^renv\.lock$
+^libminer\.Rproj$
+^\.Rproj\.user$
